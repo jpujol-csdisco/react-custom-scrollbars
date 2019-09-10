@@ -16,7 +16,8 @@ export const viewStyleDefault = {
     left: 0,
     right: 0,
     bottom: 0,
-    overflow: 'scroll',
+    overflowX: 'hidden',
+    overflowY: 'scroll',
     WebkitOverflowScrolling: 'touch'
 };
 
